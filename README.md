@@ -26,17 +26,28 @@ Currently, I am learning **mobile development** and keep improving my skills eve
 
 <br clear="left"/>
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
 ```javascript
 const annisa = {
   role: "Full-Stack Web Developer",
   study: "Computer Science Education @ UPI",
   location: "Indonesia",
 
-  building: ["Web Applications", "Company Profiles", "Landing Pages"],
-  learning: ["Mobile Development", "React Native"],
+  building: [
+    "Web Applications",
+    "Company Profiles",
+    "Landing Pages",
+  ],
+  learning: [
+    "Mobile Development",
+    "React Native",
+  ],
 
   tech: {
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
+    frontend: ["HTML", "CSS", "JavaScript", "React"],
     backend:  ["Node.js", "PHP", "Laravel"],
     database: ["MySQL", "PostgreSQL", "Supabase"],
   },
@@ -44,6 +55,13 @@ const annisa = {
   openFor: "Freelance & collaboration",
 };
 ```
+
+</td>
+<td width="38%" align="center" valign="middle">
+  <img width="100%" src="annisa-room.gif" alt="Coding room" />
+</td>
+</tr>
+</table>
 
 <h2 align="center">Tech Stack</h2>
 
