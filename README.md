@@ -1,4 +1,4 @@
-<img width="100%" src="assets/banner.png" alt="Banner" />
+<img width="100%" src="assets/banner.jpg" alt="Banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=40&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Annisa+Fitriani+Lestari" alt="Annisa Fitriani Lestari" />
