@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=170&section=header" />
+<img width="100%" src="assets/banner.png" alt="Banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=40&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Annisa+Fitriani+Lestari" alt="Annisa Fitriani Lestari" />
@@ -11,6 +11,7 @@
 <p align="center">
   <a href="mailto:anisafitrianilestari100@gmail.com"><img src="https://img.shields.io/badge/Gmail-238636?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/annisacacca"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3fb950" /></a>
+  <img src="https://komarev.com/ghpvc/?username=annisacacca&label=Profile%20Views&color=2ea043&style=for-the-badge" />
 </p>
 
 <h2 align="center">About Me</h2>
@@ -24,6 +25,25 @@ I am a **full-stack web developer** who enjoys building useful and practical web
 Currently, I am learning **mobile development** and keep improving my skills every day.
 
 <br clear="left"/>
+
+```javascript
+const annisa = {
+  role: "Full-Stack Web Developer",
+  study: "Computer Science Education @ UPI",
+  location: "Indonesia",
+
+  building: ["Web Applications", "Company Profiles", "Landing Pages"],
+  learning: ["Mobile Development", "React Native"],
+
+  tech: {
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
+    backend:  ["Node.js", "PHP", "Laravel"],
+    database: ["MySQL", "PostgreSQL", "Supabase"],
+  },
+
+  openFor: "Freelance & collaboration",
+};
+```
 
 <h2 align="center">Tech Stack</h2>
 
@@ -65,6 +85,18 @@ Currently, I am learning **mobile development** and keep improving my skills eve
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=annisacacca&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
+
+<h2 align="center">Contribution Snake</h2>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/annisacacca/annisacacca/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<h2 align="center">Quote of the Day</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=120&section=footer" />
