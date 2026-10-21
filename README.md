@@ -1,4 +1,4 @@
-<img width="100%" src="assets/banner.jpg" alt="Banner" />
+<img width="100%" src="banner.jpg" alt="Banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=40&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Annisa+Fitriani+Lestari" alt="Annisa Fitriani Lestari" />
@@ -16,7 +16,7 @@
 
 <h2 align="center">About Me</h2>
 
-<img align="left" width="230" src="assets/annisa-pixel.gif" alt="Pixel Annisa" />
+<img align="left" width="230" src="annisa-pixel.gif" alt="Pixel Annisa" />
 
 Hello! My name is **Annisa Fitriani Lestari**, a **Computer Science Education** student at **Universitas Pendidikan Indonesia**.
 
