@@ -16,7 +16,7 @@
 
 <h2 align="center">About Me</h2>
 
-<img align="left" width="230" src="annisa-pixel.gif" alt="Pixel Annisa" />
+<img align="left" width="230" src="anime-pixel.gif" alt="Pixel Annisa" />
 
 Hello! My name is **Annisa Fitriani Lestari**, a **Computer Science Education** student at **Universitas Pendidikan Indonesia**.
 
