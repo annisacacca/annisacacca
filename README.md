@@ -12,7 +12,7 @@
 
 <h2 align="center">About Me</h2>
 
-<img align="left" width="230" src="annisa-pixel.gif" alt="Pixel Annisa" />
+<img align="left" width="230" src="kodok.gif" alt="Pixel Annisa" />
 
 Hello! My name is **Annisa Fitriani Lestari**, a **Computer Science Education** student at **Universitas Pendidikan Indonesia**.
 
@@ -83,7 +83,7 @@ const annisa = {
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=annisacacca&bg_color=0d1117&color=7ee787&line=3fb950&point=ffffff&area=true&area_color=2ea043&hide_border=true" alt="Contribution Graph" />
+    <img width="100%" src="https://ghchart.rshah.org/2ea043/annisacacca" alt="Contribution Chart"/> username=annisacacca&bg_color=0d1117&color=7ee787&line=3fb950&point=ffffff&area=true&area_color=2ea043&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
